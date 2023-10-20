@@ -19,9 +19,7 @@
 </head>
 <body>
 	
-   <!-- Ganti Audio di sini -->
-   <!-- https://soundcloud.com/incrediblelove4ever2/rec0511-193910 https://feeldreams.github.io/djikhlas.mp3 -->
-   <audio src="https://soundcloud.com/incrediblelove4ever2/rec0511-193910.mp3" id="linkmp3" class="sembunyi"></audio>
+   <audio src="https://feeldreams.github.io/djikhlas.mp3" id="linkmp3" class="sembunyi"></audio>
    
    <div id="bodyblur">
      <!-- Wallpaper --><img src="https://feeldreams.github.io/wp9.jpg" id="wallpaper"/><div id="beneranblur"></div>
@@ -62,13 +60,13 @@
        <p id="pesan2">Wait...</p>
        <!-- Pesan -->
        <p id="pesan3">Ciee.. Pacar aku ulang tahun niih 🤣❤️</p>
-       <p id="pesan4">Happy Birthday Sayangkuh </p>
+       <p id="pesan4">Happy Birthday yaa sayangkuh </p>
        <p id="pesan5" class="gaya2">Nambah tua aja pacar aku</p>
-       <p id="pesan6" class="gaya2">Semoga panjang umur ya sayangkuh, biar kita sama-sama terus selamanya ❤️</p>
+       <p id="pesan6" class="gaya2">Semoga panjang umur ya sayang, biar kita sama-sama terus selamanya ❤️</p>
        <p id="pesan7" class="gaya2">Sehat selalu sayang, wish you all the best ❤️</p>
 
        <p id="pesan8" class="gaya2">Canda wkwwk :v</p>
-       <p id="pesan9" class="gaya2">Oh iya, semoga di hari spesialmu ini kamu dapat menjadi pribadi yang lebih baik lagi yaa.. 🥳❤️</p>
+       <p id="pesan9" class="gaya2">Oh iya, semoga di hari spesialmu ini kamu dapat menjadi pribadi yang lebih baik lagi yaa.. 🥳❤️ Semoga kamu sabar terus sama aku ya yang. I Love You ❤️</p>
        <p id="pesan10" class="gaya2">Happy Level Up Day!! 🥳</p>
 
        <!-- Tombol Lanjut -->
