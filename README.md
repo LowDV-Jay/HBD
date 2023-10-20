@@ -69,7 +69,6 @@
        <p id="pesan9" class="gaya2">Oh iya, semoga di hari spesial ini kamu bisa menjadi pribadi yang lebih baik lagi.. 🥳❤️ </p>
        <p id="pesan10" class="gaya2">Happy Level Up Day!! 🥳</p>
 
-       <!-- Tombol Lanjut -->
        <p id="opsL">Klik untuk Lanjut</p>
      </blockquote></div>
 
