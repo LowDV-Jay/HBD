@@ -59,14 +59,14 @@
 
        <p id="pesan2">Wait...</p>
        <!-- Pesan -->
-       <p id="pesan3">Ciee.. Pacar aku ulang tahun niih 🤣❤️</p>
+       <p id="pesan3">Ciee.. Hari ini pacar aku ulang tahun niih 🤣❤️</p>
        <p id="pesan4">Happy Birthday yaa sayangkuh </p>
-       <p id="pesan5" class="gaya2">Nambah tua aja pacar aku</p>
-       <p id="pesan6" class="gaya2">Semoga panjang umur ya sayang, biar kita sama-sama terus selamanya ❤️</p>
+       <p id="pesan5" class="gaya2">Semoga panjang umur ya sayang, biar kita sama-sama terus selamanya ❤️</p>
+       <p id="pesan6" class="gaya2">Semoga kamu sabar terus sama aku ya yang. I Love You ❤️</p>
        <p id="pesan7" class="gaya2">Sehat selalu sayang, wish you all the best ❤️</p>
 
        <p id="pesan8" class="gaya2">Canda wkwwk :v</p>
-       <p id="pesan9" class="gaya2">Oh iya, semoga di hari spesial ini kamu bisa menjadi pribadi yang lebih baik lagi.. 🥳❤️ Semoga kamu sabar terus sama aku ya yang. I Love You ❤️</p>
+       <p id="pesan9" class="gaya2">Oh iya, semoga di hari spesial ini kamu bisa menjadi pribadi yang lebih baik lagi.. 🥳❤️ </p>
        <p id="pesan10" class="gaya2">Happy Level Up Day!! 🥳</p>
 
        <!-- Tombol Lanjut -->
