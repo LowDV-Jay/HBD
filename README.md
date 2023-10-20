@@ -66,7 +66,7 @@
        <p id="pesan7" class="gaya2">Sehat selalu sayang, wish you all the best ❤️</p>
 
        <p id="pesan8" class="gaya2">Canda wkwwk :v</p>
-       <p id="pesan9" class="gaya2">Oh iya, semoga di hari spesialmu ini kamu dapat menjadi pribadi yang lebih baik lagi yaa.. 🥳❤️ Semoga kamu sabar terus sama aku ya yang. I Love You ❤️</p>
+       <p id="pesan9" class="gaya2">Oh iya, semoga di hari spesial ini kamu bisa menjadi pribadi yang lebih baik lagi.. 🥳❤️ Semoga kamu sabar terus sama aku ya yang. I Love You ❤️</p>
        <p id="pesan10" class="gaya2">Happy Level Up Day!! 🥳</p>
 
        <!-- Tombol Lanjut -->
